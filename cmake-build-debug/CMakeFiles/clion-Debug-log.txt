@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\bogda\Desktop\Infrastructure 1.2\infrastructure_arduino\cismaru-mariaalexia\stringPract_2 Select CMakeLists.txt
